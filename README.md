@@ -13,7 +13,7 @@
     .
     ├── 0-introduction
     ├── 1-deep-nlp-intuition
-    ├── 2-building-a-chatbot-with-deep-NLP
+    ├── 2-building-a-chatbot-with-deep-nlp
     │   ├── part1-data-preprocessing
     │   ├── part2-building-the-seq2seq-model
     │   ├── part3-training-the-seq2seq-model
@@ -26,4 +26,13 @@
     │
     └── README.md
 
+## Plan of Attack 🦾🤖
 
+We will learn:
+
+- Types of natural language processing
+- Classical vs deep learning models
+- End-to-end deep learning models
+- Bag-of-words
+- Seq2seq architecture
+- Seq2seq training
