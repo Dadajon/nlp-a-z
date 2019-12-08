@@ -39,5 +39,6 @@ We will learn:
 - Beam search decoding
 - Attention Mechanisms
 <br/>
+
 - Annex 1 : Artificial Neural Networks
 - Annex 2 : Recurrent Neural Networks
