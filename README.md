@@ -36,3 +36,8 @@ We will learn:
 - Bag-of-words
 - Seq2seq architecture
 - Seq2seq training
+- Beam search decoding
+- Attention Mechanisms
+<br/>
+- Annex 1 : Artificial Neural Networks
+- Annex 2 : Recurrent Neural Networks
