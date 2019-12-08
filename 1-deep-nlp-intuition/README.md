@@ -16,3 +16,7 @@ Some examples:
 ### End-to-end Deep Learning Models
 
 ![image](https://drive.google.com/uc?export=view&id=1h8RATlNMAeXBqlqhef2s1mf1oY7UTVH-)
+
+### Bag-of-words
+
+![image](https://drive.google.com/uc?export=view&id=1lp5d3NniglY5u8zRiDNT9LnTStMOcv9Z)
