@@ -1,6 +1,6 @@
 <img src="https://cdn.svgporn.com/logos/pytorch.svg" align="right" width="15%"/>
 
-# NLP A-Z: How to create a ChatBot
+# NLP A-Z: How to create a ChatBot 🤖
 
 > IDE
 
@@ -8,7 +8,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.3.1-red)
 ![Python](https://img.shields.io/badge/Python-3.7.5-blue)
 
-## Folder Structure
+## 📂 Folder Structure
 
     .
     ├── 0-introduction
@@ -26,7 +26,7 @@
     │
     └── README.md
 
-## Plan of Attack 🦾🤖
+## 🦾 Plan of Attack
 
 We will learn:
 
