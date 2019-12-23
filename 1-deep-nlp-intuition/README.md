@@ -31,7 +31,7 @@ Some examples:
 
 ![seq2seq](https://3.bp.blogspot.com/-3Pbj_dvt0Vo/V-qe-Nl6P5I/AAAAAAAABQc/z0_6WtVWtvARtMk0i9_AtLeyyGyV6AI4wCLcB/s1600/nmt-model-fast.gif)
 
-![architecture](images/seq2seq-architecture.png)
-
 RNN architecture
 ![rnn](http://karpathy.github.io/assets/rnn/diags.jpeg)
+
+![architecture](images/seq2seq-architecture.png)
